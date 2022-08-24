@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=I+am+a+Data+Scientist.;I+love+the+Blockchain+as+well.)](https://git.io/typing-svg)
 
-Connect with me on [LinkedIn]([url](https://www.linkedin.com/in/ezra-arege-6171b2202/))
+Connect with me on [LinkedIn]([(https://www.linkedin.com/in/ezra-arege-6171b2202/)])
 
 Reach me at[ Gmail](ezraoror77@gmail.com)
 
