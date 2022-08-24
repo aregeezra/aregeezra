@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aregeezra&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
