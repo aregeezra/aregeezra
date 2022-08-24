@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Im Ezra, I love Artificial Intelligence and the Blockchain.
 <!--
 **aregeezra/aregeezra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
