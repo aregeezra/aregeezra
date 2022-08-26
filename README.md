@@ -5,6 +5,8 @@
 
 Reach me at[ Gmail](ezraoror77@gmail.com)
 
+
+![Ezra's GitHub stats](https://github-readme-stats.vercel.app/api?username=aregeezra&hide=contribs,prs)
 <!--
 **aregeezra/aregeezra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
