@@ -1,9 +1,8 @@
 ### Welcome to Ezra Areges Profile.
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=F7A123&multiline=true&width=435&lines=I+am+a+Data+Scientist.)](https://git.io/typing-svg)
 
-Reach me at[ Gmail](ezraoror77@gmail.com)
+Reach me at[https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg](ezraoror77@gmail.com)
 
 
 
