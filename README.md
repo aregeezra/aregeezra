@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aregeezra&layout=compact)](https://github.com/aregeezra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aregeezra&langs_count=8)](https://github.com/aregeezra/github-readme-stats)
+
